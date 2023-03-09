@@ -45,3 +45,14 @@ console.log(pessoas1);
 var gerente = ["Davi","Manuela"];
 var empresa = pessoa.concat(gerente);
 console.log(empresa);
+
+// exer.: destinos possíveis
+const listaDeDestinos = new Array(
+    `Salvador`,
+    `São Paulo`,
+    `Rio de Janeiro`,
+    `Curitiba`
+);
+listaDeDestinos.push(`Florianópolis`);
+console.log("Destinos possíveis: ");
+console.log(listaDeDestinos);
