@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+}
+body{
+    background-color: rgb(217, 189, 243);
+}
+header{
+    text-align: center;
+    color: blueviolet;
+    padding: 20px 0;
+}
+main{
+    width: 700px;
+    margin: 10px auto;
+    background-color: #ffffff66;
+    padding: 20px;
+    text-align: center;
+}
+main input{
+    padding: 10px;
+    border-radius: 5px;
+}
+#res{
+    background-color: #ffffff66;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+    margin: 10px auto;
+}
