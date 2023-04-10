@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+::selection{
+    color: blueviolet;
+    background-color: #efe0fc;
+}
+body{
+    background-color: #af66f366;
+}
+header{
+    text-align: center;
+    padding: 50px 0;
+}
+header h1{
+    color: rgb(175, 102, 243);
+}
+header .description{
+    font-style: italic;
+    color: blueviolet;
+}
