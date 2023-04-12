@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    background-color: #f8f8f8;
+}
+header{
+    text-align: center;
+    padding: 50px 0;
+}
+main{
+    background-color: #fff;
+    padding: 20px;
+    width: 500px;
+    margin: 40px auto;
+}
+main p{
+    padding: 10px 0;
+}
+#res{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#resImg{
+    background-color: #ccc;
+    /*background-image: url('mulher.jpg');*/
+    background-size: cover;
+    background-position: top center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 20px 0;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    bottom: 0;
+}
